@@ -5,7 +5,7 @@ The centering lugs must be removed from the XY joints. Here you can download the
 
 For better assembly use the assamble tool Aluminium Hexnut Insert.
 ## Picture:
-![Here](pictures/m5nuttool .png)
+![Here](pictures/m5nuttool.png)
 
 The Mod is based on hartk1213 
 [hartk1213](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202-Trident/2.4/Voron2.4_Trident_Pins_Mod)
