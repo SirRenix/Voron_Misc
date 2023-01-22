@@ -4,7 +4,7 @@ Modified XY Joints for V2.4 R2 with 1x MGN12 at X Axis in combination with the X
 The centering lugs must be removed from the XY joints. Here you can download the correct STL files.
 
 For better assembly use the assamble tool Aluminium Hexnut Insert.
-
+## Picture:
 ![Here](pictures/m5nuttool .png)
 
 The Mod is based on hartk1213 
