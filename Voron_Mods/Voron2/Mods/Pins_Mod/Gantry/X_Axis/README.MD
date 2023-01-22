@@ -7,6 +7,9 @@ For better assembly use the assamble tool Aluminium Hexnut Insert.
 ## Picture:
 ![Here](pictures/m5nuttool.png)
 
+## Print direction:
+![Here](pictures/print_direction.png)
+
 The Mod is based on hartk1213 
 [hartk1213](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202-Trident/2.4/Voron2.4_Trident_Pins_Mod)
 
