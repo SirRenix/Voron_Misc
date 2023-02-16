@@ -9,7 +9,7 @@ As an example here:
 Hiwin: L 45,4mm
 CPC: L 48mm
 ```
-## X Endstop midification of position
+## X Endstop modification of position
 Furthermore, the position of the X switch on the carriage was adjusted. This has a too wide distance to the XY-Joint. 
 At the limit switch, the tab must be bent up strongly to overcome approx. 5mm distance.
 This adjustment should minimize or eliminate this problem.
