@@ -5,14 +5,16 @@ This adjustment was necessary, because the sleds all have a different width.
 As an example here:
 ## Picture:
 ![Here](pictures/Dimension.png)
+```
 Hiwin: L 45,4mm
 CPC: L 48mm
-
-##X Endstop midification of position
+```
+## X Endstop midification of position
 Furthermore, the position of the X switch on the carriage was adjusted. This has a too wide distance to the XY-Joint. 
 At the limit switch, the tab must be bent up strongly to overcome approx. 5mm distance.
 This adjustment should minimize or eliminate this problem.
-######Additional information:
+
+###### Additional information:
 Only important for users of the Umbilical. Otherwise, the standard position on the XY-Joint can still be used for the X and Y end stops. 
 
 ## Picture:
@@ -23,5 +25,5 @@ Only important for users of the Umbilical. Otherwise, the standard position on t
 
 
 Origin of Files:
-[Voron 2.4R2](https://github.com/VoronDesign/Voron-2)	
+[Voron-2.4R2](https://github.com/VoronDesign/Voron-2)	
 [Voron-Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner)
